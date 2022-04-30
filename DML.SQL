@@ -44,3 +44,5 @@ insert into PATIENT_INVOICE VALUES(	'BIL-101',	'PAT-101',	'12-Jan-22',	300,	50,	
 insert into PATIENT_INVOICE VALUES(	'BIL-102',	'PAT-102',	'15-Jan-22',	450,	50,	0,	0,	0,0,	15	,	515	);
 insert into PATIENT_INVOICE VALUES(	'BIL-103',	'PAT-103',	'17-Jan-22',	400,	50,	0,	0,	0,	0,15,	232.5	);
 insert into PATIENT_INVOICE VALUES(	'BIL-104',	'PAT-104',	'18-Jan-22',	500,	50,	0,	0,	0,	1,15	,	282.5	);
+
+

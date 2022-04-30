@@ -77,5 +77,6 @@ and Vitals_Date_Time =(select max(Vitals_Date_Time)
 from Patient_VitalSigns Vitals1
 where Vitals.patient_id =Vitals1.patient_id ) ORDER BY Vitals.patient_id;
 
+
 select * from PATIENT_VITALS;
 
